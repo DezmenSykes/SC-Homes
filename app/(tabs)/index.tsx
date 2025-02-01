@@ -17,7 +17,7 @@ export default function HomeScreen() {
       }>
       
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome to your new app!</ThemedText>
+        <ThemedText type="title">Welcome!</ThemedText>
         <HelloWave />
       </ThemedView>
     </ParallaxScrollView>
