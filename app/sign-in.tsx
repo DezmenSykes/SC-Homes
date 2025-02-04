@@ -7,7 +7,7 @@ const SignIn = () => {
   return (
     <SafeAreaView className="bg-white h-full">
       <ScrollView contentContainerClassName="h-full">
-        <Image source={images.onboarding} className="w-full h-3/4" resizeMode="contain"/>
+        <Image source={images.onboarding} className=" " resizeMode="contain"/>
         <View className='px-10'>
           <Text className='text-base text-center uppercase font-rubik text-black-200'>Welcome to Utopify</Text>
           <Text className='text-3xl font-rubik-bold text-black-300 text-center mt-2'>
